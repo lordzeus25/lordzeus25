@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student passionate a
 - 👯 I’m looking to collaborate on **AI-powered automation projects** and **open-source machine learning tools**.
 - 🤔 I’m looking for help with building robust AI models and training datasets.
 - 💬 Ask me about **Python**, **electrical concepts**, or **ML project ideas**.
-- 📫 How to reach me: **binayakaryal25@gmail.com**
+- 📫 How to reach me: **binayakaryal971@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I’m blending circuits and code to automate the future, one project at a time!
 
