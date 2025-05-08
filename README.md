@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**lordzeus25/lordzeus25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Binayak Aryal!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm an Electrical Engineering student passionate about combining hardware knowledge with cutting-edge software technologies.
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with the 
-- 💬 Ask me about ...
-- 📫 How to reach me: .
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><br> binayak Aryal
+- 🔭 I’m currently working on a **meter reading AI system** using **Python** and **computer vision**.
+- 🌱 I’m currently learning **Machine Learning**, **Artificial Intelligence**, and **Data Science**.
+- 👯 I’m looking to collaborate on **AI-powered automation projects** and **open-source machine learning tools**.
+- 🤔 I’m looking for help with building robust AI models and training datasets.
+- 💬 Ask me about **Python**, **electrical concepts**, or **ML project ideas**.
+- 📫 How to reach me: **binayakaryal25@gmail.com**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: I’m blending circuits and code to automate the future, one project at a time!
+
+Thanks for visiting my profile! 🚀
